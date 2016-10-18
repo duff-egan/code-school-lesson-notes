@@ -193,3 +193,9 @@ footer {
 .foundations-example-chp5-checkbox-inline input[type=checkbox], .foundations-example-chp5-checkbox-inline label[for=newsletter] {
     display: inline;
 }
+.formations-example-chp3-base {
+    box-sizing: border-box;
+    width: 561px;
+    border: 1px dashed #cccccc;
+    padding: 5px;
+}
